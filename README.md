@@ -7,3 +7,5 @@ Enterprise Logging Solutions is a SaaS company dedicated to providing you the be
 Interested in a demo of our products? Email our sales team at sales@enterpriseloggingsolutions.com  
 
 Interested in working for us? Send your resume to careers@enterpriseloggingsolutions.com
+
+Need to report a vulnerability? Email our security team at security@enterpriseloggingsolutions.com
